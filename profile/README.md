@@ -14,14 +14,4 @@ BuyersBeware.org is an open source community project maintained by volunteers an
 
 If you're interested in participating in our community as a benefactor, volunteer or contributor please [contact us](mailto:buyersbeware+support@googlegroups.com).
 
-## Help
-
-::: info
-As an organization of volunteers BuyersBeware.org is unable to guarantee support response times. Volunteers are commited to a best effort attempt at satisfying all requests in a tmiely manner.
-:::
-
-Community support resources can be found in the [Discord]() channel, [discussion board]() or by email at <buyersbeware+help@googlegroups.com>.
-
-## Support
-
-BuyersBerware.org relies on donations and volunteers to sustain this community. Please [donate]() today and help keep commerce clean.
+Community resources can be found in the [Discord]() channel, [discussion board]() or by email at <buyersbeware+help@googlegroups.com>.
